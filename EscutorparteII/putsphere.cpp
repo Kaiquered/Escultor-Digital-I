@@ -18,10 +18,9 @@ Putsphere::~Putsphere()
 {
 
 }
-//verificar a funcionalidade desse draw
+
 void Putsphere::draw(Sculptor &t)
 {
-       //int nx = _nx;
          t.setColor(r,g,b,a);
          for(int i = xcenter-radius; i<xcenter+radius; i++){
                  for(int j = ycenter-radius; j<ycenter+radius; j++){
