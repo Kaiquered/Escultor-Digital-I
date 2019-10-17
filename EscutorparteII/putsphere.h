@@ -1,0 +1,19 @@
+#ifndef PUTSPHERE_H
+#define PUTSPHERE_H
+#include <figurageometrica.h>
+
+
+class Putsphere : public FiguraGeometrica
+{
+
+protected:
+    int xcenter,ycenter,zcenter,radius;
+    float r,g,b,a;
+
+public:
+    Putsphere(int xcenter_, int ycenter_, int zcenter_, int radius_,float r_,float g_,float b_,float a_);
+    ~Putsphere();
+    void draw(Sculptor &t);
+};
+
+#endif // PUTSPHERE_H
