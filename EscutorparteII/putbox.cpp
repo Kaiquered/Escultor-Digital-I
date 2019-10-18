@@ -24,9 +24,9 @@ void Putbox::draw(Sculptor &t)
 {
     t.setColor(r,g,b,a);
 
-    for (int i = x0; i<=x1; i++){
-        for (int j = y0; j<=y1; j++){
-            for (int k = z0; k<=z1; k++){
+    for (int i = x0; i<x1; i++){
+        for (int j = y0; j<y1; j++){
+            for (int k = z0; k<z1; k++){
                 t.putVoxel(i,j,k);
             }
         }
