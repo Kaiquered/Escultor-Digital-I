@@ -2,6 +2,10 @@
 #define CUTBOX_H
 #include <figurageometrica.h>
 
+/* @brief Classe herdeira de FiguraGeometrica,
+* responsável por remover caixas (cúbicas ou não) em nossa escultura.
+*/
+
 class Cutbox : public FiguraGeometrica
 {
  protected:
@@ -10,7 +14,11 @@ class Cutbox : public FiguraGeometrica
 
  public:
     Cutbox(int x_0, int x_1, int y_0, int y_1, int z_0, int z_1);
+    /* @brief construtor da subclasse
+    */
     ~Cutbox();
+    /* @brief virtualização do método através do draw
+    */
     void draw(Sculptor &t);
 
 };
