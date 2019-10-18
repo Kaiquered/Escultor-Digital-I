@@ -3,7 +3,7 @@
 #include <figurageometrica.h>
 
 
-/* @brief Classe herdeira de FiguraGeometrica,
+/** @brief Classe herdeira de FiguraGeometrica,
 * responsável por adicionar caixas (cúbicas ou não) em nossa escultura.
 */
 
@@ -14,11 +14,9 @@ protected :
     float r,g,b,a;
 public:
     Putbox(int x_0, int x_1, int y_0, int y_1, int z_0, int z_1, float r_, float g_, float b_, float a_);
-    /* @brief construtor da subclasse
-    */
+    
     ~Putbox();
-    /* @brief virtualização do método através do draw
-    */
+    
     void draw(Sculptor &t);
 };
 
