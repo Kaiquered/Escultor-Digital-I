@@ -12,10 +12,9 @@ Inicialmente, deve-se compilar o código fonte, em seguida o usuário terá aces
 <p>2-Interpretador de Arquivos</p>
 <p>3-Exemplo com outras funcionalidades implementadas</p>
 
-<p>Na primeira opção será gerado um arquivo.OFF com a figura da Bandeira de Pernambuco e armazenado na pasta build para ser reproduzido por exemplo no software Meshlab</p>
-<p>Na segunda opção o programa irá interpretar um arquivo.txt passado pelo professor orientador, o arquivo se encontra na pasta build,
- com isso, o usuário poderá criar seu arquivo.txt com uma figura para ser implementada pelo programa.</p>
+<p>Na primeira opção será gerado um arquivo (Pernambuco.OFF) com a figura da Bandeira de Pernambuco e armazenado na pasta build para ser reproduzido por exemplo no software Meshlab.</p>
+<p>Na segunda opção o programa irá interpretar um arquivo (fig.txt) passado pelo professor orientador, o arquivo se encontra na pasta build, com isso, o usuário tem a possibilidade de criar seu arquivo.txt com uma figura para ser implementada pelo programa.</p>
  
-<p> Na última opção, o usuário irá gravar um arquivo OFF com funcionalidades que não foram utilizadas na opção 1 </p>
+<p> Na última opção, o usuário irá gravar um arquivo (OutrasFuncoes.OFF) com funcionalidades que não foram utilizadas na opção 1. </p>
 
 
