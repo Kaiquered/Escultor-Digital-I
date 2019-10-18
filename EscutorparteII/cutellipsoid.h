@@ -15,11 +15,9 @@ protected:
     int xcenter,ycenter,zcenter,rx,ry,rz;
 public:
     Cutellipsoid(int xcenter_, int ycenter_, int zcenter_, int rx_, int ry_, int rz_);
-    /** @brief construtor da subclasse
-    */
+    
     ~Cutellipsoid();
-    /** @brief virtualização do método através do draw
-    */
+    
     void draw(Sculptor &t);
 };
 
