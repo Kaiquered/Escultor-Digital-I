@@ -12,6 +12,10 @@ class FiguraGeometrica{
 public:
   FiguraGeometrica();
   
+  /** @brief Método virtual draw usado para a execução das 
+  * subclasses virtualmente.
+  */
+
   virtual void draw(Sculptor &t)=0;
 
   virtual ~FiguraGeometrica();
