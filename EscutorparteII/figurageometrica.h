@@ -4,6 +4,8 @@
 
 /** @brief Classe abstrata FiguraGeometrica, para tornar o metódo
 * draw virtual, e em seguida ser implementado pelas classes herdeiras.
+* @details FiguraGeometrica permite que endereços de objetos de subclasses 
+* dela sejam armazenadas em ponteiros dessa classe.
 */
 
 class FiguraGeometrica{
