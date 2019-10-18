@@ -1,7 +1,7 @@
 #ifndef SCULPTOR_H
 #define SCULPTOR_H
 
-/* @brief Estrutura que define como serão os pontos da escultura.
+/** @brief Estrutura que define como serão os pontos da escultura.
 * r, g e b são variáveis de cor;
 * a determina transparência;
 * isOn determina se o bloco está ou não na escultura.
@@ -12,10 +12,6 @@ struct Voxel {
   float a;
   bool isOn;
 };
-
-/* @brief Classe que reune as informações fornecidas pela estrutura Voxel
-* e aplica os metódos para, de fato, montar a escultura.
-*/
 
 class Sculptor {
 protected:
