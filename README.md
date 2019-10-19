@@ -17,5 +17,7 @@ Inicialmente, deve-se compilar o código fonte, em seguida o usuário terá aces
  
 <p> Na última opção, o usuário irá gravar um arquivo (OutrasFuncoes.OFF) com funcionalidades que não foram utilizadas na opção 1. </p>
 
+![Pernambuco](https://github.com/Kaiquered/EscutorDigital/blob/master/Exemplos/Pernambuco.jpg)
+
 
 
