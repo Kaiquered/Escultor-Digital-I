@@ -21,7 +21,7 @@ Inicialmente, deve-se compilar o código fonte, em seguida o usuário terá aces
 
 # Exemplos de Figuras
 ![Exemplo Bandeira de Pernambuco](https://github.com/Kaiquered/EscutorDigital/blob/master/Exemplos%20de%20Figuras/Pernambuco.jpg)
-<p>Bandeira de Pernambuco</p>
+<p>Bandeira do Estado Pernambuco (Brasil)</p>
 
 
 
