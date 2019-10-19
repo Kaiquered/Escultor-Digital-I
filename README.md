@@ -17,4 +17,5 @@ Inicialmente, deve-se compilar o código fonte, em seguida o usuário terá aces
  
 <p> Na última opção, o usuário irá gravar um arquivo (OutrasFuncoes.OFF) com funcionalidades que não foram utilizadas na opção 1. </p>
 
+!https://ibb.co/bbh7Jwm
 
