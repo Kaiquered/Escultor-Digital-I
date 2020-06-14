@@ -6,7 +6,7 @@ Projeto em desenvolvimento na disciplina DCA1202: Programação Avançada. UFRN
 
 # Manual EscutorDigital 
 
-Inicialmente, deve-se compilar o código fonte, em seguida o usuário terá acesso a um menu com as seguintes opções:
+Inicialmente, deve-se compilar o código fonte, em seguida o usuário terá acesso a um menu com as seguintes opções via terminal:
 
 <p><p>1-Exemplo da Bandeira de Pernambuco</p>
 <p>2-Interpretador de Arquivos</p>
