@@ -1,10 +1,10 @@
-# Escutor Digital 
+# Escultor Digital 
 Projeto em desenvolvimento na disciplina DCA1202: Programação Avançada. UFRN
 
 <p>Desenvolvido por: Kaíque Gomes Machado , Marlucy Barbosa Costa</p>
 <p>Orientação: Prof. Dr. Agostinho De Medeiros Brito Junior</p>
 
-# Manual Escutor Digital 
+# Manual Escultor Digital 
 
 Inicialmente, deve-se compilar o código fonte, em seguida o usuário terá acesso a um menu com as seguintes opções via terminal:
 
